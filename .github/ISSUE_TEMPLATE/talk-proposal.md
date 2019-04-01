@@ -7,6 +7,4 @@ assignees: ''
 
 ---
 
----
-date: dd.mm.yyyy
----
+<!-- try to stick to 500 characters (two tweets 😉) -->
