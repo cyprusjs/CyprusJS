@@ -14,6 +14,34 @@ You can find all previous and future talks of CyprusJS in the [issues](https://g
 
 If you want to submit a talk, please use the [Talk template](https://github.com/cyprusjs/talks/issues/new/choose), we'll update and improve that over time when necessary.
 
+## Technical Information
+
+### Paphos (Πάφος) (https://github.com/orgs/cyprusjs/teams/paphos-chapter)
+
+Address: Jungle Space, Gladstonos 12-14, 8046 Paphos
+
+- 🎟 Ticketing/RSVP: None
+- 🖥 Presentation on TV, 16:9 aspect ratio
+- 🔗 HDMI
+- 🎤 🙅‍
+
+### Limassol (Λεμεσός) (https://github.com/orgs/cyprusjs/teams/limassol-chapter)
+
+Address: ARIS, 1 Ayias Zonis and Thessalonikis, Nicolaou Pentadromos Centre, Block A, Offices 204/5/6, 3025 Limassol
+
+- 🎟 Ticketing/RSVP: None
+- 🖥 Presentation on TV, 16:9 aspect ratio
+- 🔗 HDMI
+- 🎤 🙅‍
+
+### Nicosia (Λευκωσία) (https://github.com/orgs/cyprusjs/teams/nicosia-chapter)
+
+TBD
+
+### Larnaca (Λάρνακα) (https://github.com/orgs/cyprusjs/teams/larnaca-chapter)
+
+TBD
+
 ## QA
 
 If you have questions, suggestions or comments, please use the [main CyprusJS repo](https://github.com/cyprusjs/CyprusJS).
