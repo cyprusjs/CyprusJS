@@ -16,7 +16,7 @@ If you want to submit a talk, please use the [Talk template](https://github.com/
 
 ## Technical Information
 
-### Paphos (Πάφος) (https://github.com/orgs/cyprusjs/teams/paphos-chapter)
+### Paphos (Πάφος) [Paphos Chapter](https://github.com/orgs/cyprusjs/teams/paphos-chapter)
 
 Address: Jungle Space, Gladstonos 12-14, 8046 Paphos
 
@@ -25,7 +25,7 @@ Address: Jungle Space, Gladstonos 12-14, 8046 Paphos
 - 🔗 HDMI
 - 🎤 🙅‍
 
-### Limassol (Λεμεσός) (https://github.com/orgs/cyprusjs/teams/limassol-chapter)
+### Limassol (Λεμεσός) [Limassol Chapter](https://github.com/orgs/cyprusjs/teams/limassol-chapter)
 
 Address: ARIS, 1 Ayias Zonis and Thessalonikis, Nicolaou Pentadromos Centre, Block A, Offices 204/5/6, 3025 Limassol
 
@@ -34,11 +34,11 @@ Address: ARIS, 1 Ayias Zonis and Thessalonikis, Nicolaou Pentadromos Centre, Blo
 - 🔗 HDMI
 - 🎤 🙅‍
 
-### Nicosia (Λευκωσία) (https://github.com/orgs/cyprusjs/teams/nicosia-chapter)
+### Nicosia (Λευκωσία) [Nicosia Chapter](https://github.com/orgs/cyprusjs/teams/nicosia-chapter)
 
 TBD
 
-### Larnaca (Λάρνακα) (https://github.com/orgs/cyprusjs/teams/larnaca-chapter)
+### Larnaca (Λάρνακα) [Larnaca Chapter](https://github.com/orgs/cyprusjs/teams/larnaca-chapter)
 
 TBD
 
