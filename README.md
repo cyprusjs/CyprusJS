@@ -20,7 +20,7 @@ If you want to submit a talk, please use the [Talk template](https://github.com/
 
 Address: Jungle Space, Gladstonos 12-14, 8046 Paphos
 
-- 🎟 Ticketing/RSVP: None
+- 🎟 Ticketing/RSVP: https://ti.to/cyprusjs/
 - 🖥 Presentation on TV, 16:9 aspect ratio
 - 🔗 HDMI
 - 🎤 🙅‍
@@ -29,7 +29,7 @@ Address: Jungle Space, Gladstonos 12-14, 8046 Paphos
 
 Address: ARIS, 1 Ayias Zonis and Thessalonikis, Nicolaou Pentadromos Centre, Block A, Offices 204/5/6, 3025 Limassol
 
-- 🎟 Ticketing/RSVP: None
+- 🎟 Ticketing/RSVP: https://ti.to/cyprusjs/cyprusjs-limassol
 - 🖥 Presentation on TV, 16:9 aspect ratio
 - 🔗 HDMI
 - 🎤 🙅‍
