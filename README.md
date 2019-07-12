@@ -18,7 +18,7 @@ If you want to submit a talk, please use the [Talk template](https://github.com/
 
 ### Paphos (Πάφος) [Paphos Chapter](https://github.com/orgs/cyprusjs/teams/paphos-chapter)
 
-Address: Jungle Space, Gladstonos 12-14, 8046 Paphos
+Address: Hügge Space, Gladstonos 12-14, 8046 Paphos
 
 - 🎟 Ticketing/RSVP: https://ti.to/cyprusjs/
 - 🖥 Presentation on TV, 16:9 aspect ratio
