@@ -1,6 +1,6 @@
 # CyprusJS Talks & Events
 
-You can find all previous and future talks of CyprusJS in the [issues](https://github.com/cyprusjs/talks/issues) of this repo.
+You can find all previous and future talks of CyprusJS in the [issues](https://github.com/cyprusjs/CyprusJS/issues) of this repo.
 
 ## Format
 
@@ -12,7 +12,7 @@ You can find all previous and future talks of CyprusJS in the [issues](https://g
 
 ## Submit a Talk
 
-If you want to submit a talk, please use the [Talk template](https://github.com/cyprusjs/talks/issues/new/choose), we'll update and improve that over time when necessary.
+If you want to submit a talk, please use the [Talk template](https://github.com/cyprusjs/CyprusJS/issues/new/choose), we'll update and improve that over time when necessary.
 
 ## Technical Information
 
