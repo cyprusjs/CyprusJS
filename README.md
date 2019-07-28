@@ -2,6 +2,20 @@
 
 You can find all previous and future talks of CyprusJS in the [issues](https://github.com/cyprusjs/CyprusJS/issues) of this repo.
 
+## Table of Contents
+* [Format](#format)
+* [Submit a Talk](#submit-a-talk)
+* [Technical Information](#technical-Information)
+* [License](LICENSE)
+
+## Important Documents
+
+* [Code of Conduct](https://github.com/cyprusjs/CyprusJS/blob/master/CODE_OF_CONDUCT.md)
+* [Playbook](https://github.com/cyprusjs/CyprusJS/blob/master/PLAYBOOK.md)
+* [Marketing](https://github.com/cyprusjs/CyprusJS/blob/master/MARKETING.md)
+* [Contributing](https://github.com/cyprusjs/CyprusJS/blob/master/CONTRIBUTING.md)
+* [License](LICENSE)
+
 ## Format
 
 - Talks are 30 minutes each
