@@ -2,7 +2,7 @@
 
 You can find all previous and future talks of CyprusJS in the [issues](https://github.com/cyprusjs/CyprusJS/issues) of this repo.
 
-Subscribe to our [Shared Calendar](webcal://p35-caldav.icloud.com/published/2/MTQzMjA4NjEyOTE0MzIwOFQtzHb_vc9Ys5F5cgGJmjd2pvlIX7m0nzXOBUJkeAYmunqfqa6HBk9_02FIrx4J1IRXXvTdJxWOUUpOKFFcOUY) or download the CALENDAR.ics file to never miss another event.
+Subscribe to our Shared Calendar webcal://p35-caldav.icloud.com/published/2/MTQzMjA4NjEyOTE0MzIwOFQtzHb_vc9Ys5F5cgGJmjd2pvlIX7m0nzXOBUJkeAYmunqfqa6HBk9_02FIrx4J1IRXXvTdJxWOUUpOKFFcOUY or download the CALENDAR.ics file to never miss another event.
 
 ## Table of Contents
 * [Format](#format)
