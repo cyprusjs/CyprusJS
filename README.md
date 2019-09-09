@@ -43,14 +43,19 @@ Address: Hügge Space, Gladstonos 12-14, 8046 Paphos
 
 Address: ARIS, 1 Ayias Zonis and Thessalonikis, Nicolaou Pentadromos Centre, Block A, Offices 204/5/6, 3025 Limassol
 
-- 🎟 Ticketing/RSVP: https://ti.to/cyprusjs/cyprusjs-limassol
+- 🎟 Ticketing/RSVP: https://ti.to/cyprusjs/
 - 🖥 Presentation on TV, 16:9 aspect ratio
 - 🔗 HDMI
 - 🎤 🙅‍
 
 ### Nicosia (Λευκωσία) [Nicosia Chapter](https://github.com/orgs/cyprusjs/teams/nicosia-chapter)
 
-TBD
+Address: IDEA, 36 Lykourgou Street, 1011 Nicosia
+
+- 🎟 Ticketing/RSVP: https://ti.to/cyprusjs/
+- 🖥 Presentation on TV, 16:9 aspect ratio
+- 🔗 HDMI
+- 🎤 🙅‍
 
 ### Larnaca (Λάρνακα) [Larnaca Chapter](https://github.com/orgs/cyprusjs/teams/larnaca-chapter)
 
