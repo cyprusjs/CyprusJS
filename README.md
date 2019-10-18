@@ -1,4 +1,6 @@
-# CyprusJS Talks & Events
+[![CyprusJS community group logotype](banner.png?raw=true "CyprusJS community group")](https://cyprusjs.org/)
+
+# Talks & Events
 
 You can find all previous and future talks of CyprusJS in the [issues](https://github.com/cyprusjs/CyprusJS/issues) of this repo.
 
