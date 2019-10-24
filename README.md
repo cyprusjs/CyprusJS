@@ -1,4 +1,4 @@
-[![CyprusJS community group logotype](banner.png?raw=true "CyprusJS community group")](https://cyprusjs.org/)
+[![CyprusJS community group logotype](https://raw.githubusercontent.com/cyprusjs/CyprusJS/master/banner.png)](https://cyprusjs.org/)
 
 # Talks & Events
 
