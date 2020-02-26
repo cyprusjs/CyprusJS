@@ -4,9 +4,7 @@
 
 You can find all previous and future talks of CyprusJS in the [issues](https://github.com/cyprusjs/CyprusJS/issues) of this repo.
 
-Subscribe to our Shared Calendar or download the CALENDAR.ics file to never miss another event:
-
-- `webcal://p35-caldav.icloud.com/published/2/MTQzMjA4NjEyOTE0MzIwOFQtzHb_vc9Ys5F5cgGJmjd2pvlIX7m0nzXOBUJkeAYmunqfqa6HBk9_02FIrx4J1IRXXvTdJxWOUUpOKFFcOUY`
+We're also on Meetup: http://meetup.com/cyprusjs/
 
 ## Table of Contents
 * [Format](#format)
@@ -17,8 +15,6 @@ Subscribe to our Shared Calendar or download the CALENDAR.ics file to never miss
 ## Important Documents
 
 * [Code of Conduct](https://github.com/cyprusjs/CyprusJS/blob/master/CODE_OF_CONDUCT.md)
-* [Playbook](https://github.com/cyprusjs/CyprusJS/blob/master/PLAYBOOK.md)
-* [Marketing](https://github.com/cyprusjs/CyprusJS/blob/master/MARKETING.md)
 * [Contributing](https://github.com/cyprusjs/CyprusJS/blob/master/CONTRIBUTING.md)
 * [License](LICENSE)
 
@@ -36,7 +32,7 @@ If you want to submit a talk, please use the [Talk template](https://github.com/
 
 ## Technical Information
 
-### Paphos (Πάφος) [Paphos Chapter](https://github.com/orgs/cyprusjs/teams/paphos-chapter)
+### Paphos (Πάφος)
 
 Address: Hügge Space, Gladstonos 12-14, 8046 Paphos
 
@@ -45,7 +41,7 @@ Address: Hügge Space, Gladstonos 12-14, 8046 Paphos
 - 🔗 HDMI
 - 🎤 🙅‍
 
-### Limassol (Λεμεσός) [Limassol Chapter](https://github.com/orgs/cyprusjs/teams/limassol-chapter)
+### Limassol (Λεμεσός)
 
 Address: ARIS, 1 Ayias Zonis and Thessalonikis, Nicolaou Pentadromos Centre, Block A, Offices 204/5/6, 3025 Limassol
 
@@ -54,7 +50,7 @@ Address: ARIS, 1 Ayias Zonis and Thessalonikis, Nicolaou Pentadromos Centre, Blo
 - 🔗 HDMI
 - 🎤 🙅‍
 
-### Nicosia (Λευκωσία) [Nicosia Chapter](https://github.com/orgs/cyprusjs/teams/nicosia-chapter)
+### Nicosia (Λευκωσία)
 
 Address: IDEA, 36 Lykourgou Street, 1011 Nicosia
 
@@ -63,7 +59,7 @@ Address: IDEA, 36 Lykourgou Street, 1011 Nicosia
 - 🔗 HDMI
 - 🎤 🙅‍
 
-### Larnaca (Λάρνακα) [Larnaca Chapter](https://github.com/orgs/cyprusjs/teams/larnaca-chapter)
+### Larnaca (Λάρνακα)
 
 TBD
 
