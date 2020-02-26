@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cyprusjs/CyprusJS/master/logotype/cyprusjs-logo-color.svg" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/cyprusjs/CyprusJS/master/logotype/cyprusjs-logo-color.png" width="150" height="150">
   <h3 align="center">Cyprus JS</h1>
   <p align="center">community group</p>
 </p>
