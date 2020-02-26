@@ -1,4 +1,4 @@
-name: Dump JSON
+name: Announce new proposals
 on:
   issues:
     types: [labeled]
