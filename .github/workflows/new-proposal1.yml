@@ -1,0 +1,21 @@
+name: Dump JSON
+on:
+  issues:
+    types: [labeled,opened,unlabeled]
+
+jobs:
+  tweet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dump GitHub context
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
+        run: echo "$GITHUB_CONTEXT"
+      # - uses: ethomson/send-tweet-action@v1
+      #   if: contains(github.event.issue.labels,'proposals')
+      #   with:
+      #     status: "New talk proposal: ${{github.event.issue.title}} ${{github.event.issue.html_url}} #CyprusJS"
+      #     consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
+      #     consumer-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
+      #     access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+      #     access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
