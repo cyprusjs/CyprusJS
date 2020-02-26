@@ -4,8 +4,6 @@
   <p align="center">community group</p>
 </p>
 
-### Talks
-
 # Talks & Events
 
 You can find all previous and future talks of CyprusJS in the [issues](https://github.com/cyprusjs/CyprusJS/issues) of this repo.
