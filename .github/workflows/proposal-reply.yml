@@ -1,0 +1,19 @@
+name: Provide help and suggestions on new proposals
+on:
+  issues: {types: opened}
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@0.6.0
+        if: contains(github.event.issue.labels.*.name,'proposals')
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '👋 Thanks for your proposal!\n\nPlease make sure the issue description contains information about your talk only and use comments for further details, like when and where you\'d like to give this talk.\n\nSomeone from @CyprusJS/core will get back to you soon.'
+            })
