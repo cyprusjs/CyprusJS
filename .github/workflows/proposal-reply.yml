@@ -1,6 +1,6 @@
 name: Provide help and suggestions on new proposals
 on:
-  issues: {types: opened}
+  issues: {types: labeled}
 
 jobs:
   comment:
