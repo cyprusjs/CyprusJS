@@ -1,7 +1,7 @@
 name: New Talk Proposal
 on:
   issues:
-    types: [labeled]
+    types: [labeled,opened]
 
 jobs:
   tweet:
