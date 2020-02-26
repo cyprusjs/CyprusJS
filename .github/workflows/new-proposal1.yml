@@ -1,4 +1,4 @@
-name: New Talk Proposal
+name: Dump JSON
 on:
   issues:
     types: [labeled,opened,unlabeled]
