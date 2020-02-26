@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: ethomson/send-tweet-action@v1
-        if: contains(github.event.issue.labels,'proposal')
+        if: contains(github.event.issue.labels,'proposals')
         with:
           status: "New talk proposal: ${{github.event.issue.title}} ${{github.event.issue.html_url}} #CyprusJS"
           consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
