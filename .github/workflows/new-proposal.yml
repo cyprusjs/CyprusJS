@@ -8,9 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Dump GitHub context
-        env:
-          GITHUB_CONTEXT: ${{ toJson(github) }}
-        run: echo "$GITHUB_CONTEXT"
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
+        run: echo "$GITHUB_CONTEXT"
       # - uses: ethomson/send-tweet-action@v1
       #   if: contains(github.event.issue.labels,'proposals')
       #   with:
