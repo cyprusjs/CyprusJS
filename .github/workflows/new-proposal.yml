@@ -1,7 +1,6 @@
 name: Announce new proposals
 on:
-  issues:
-    types: [labeled]
+  issues: {types: labeled}
 
 jobs:
   tweet:
