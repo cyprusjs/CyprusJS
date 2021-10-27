@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: 12
       - name: gitevents
-        uses: gitevents/action@1.0.0
+        uses: gitevents/action@v1.0.0
         with:
           enable-auto-invite: true
           gitevents-bot-login: 'cyprusjs-bot'
