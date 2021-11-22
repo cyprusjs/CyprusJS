@@ -43,7 +43,7 @@ https://github.com/cyprusjs/CyprusJS/labels/Remote%20Session
 
 ## Links
 
-- [Chat][https://discord.gg/8zsrmmu2]
+- [Chat](https://discord.gg/8zsrmmu2)
 - [Twitter](https://twitter.com/cyprusjs)
 - [Discussions](https://github.com/cyprusjs/CyprusJS/discussions)
 - [All open Issues](https://github.com/cyprusjs/CyprusJS/issues)
