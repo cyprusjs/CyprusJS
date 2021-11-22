@@ -4,69 +4,62 @@
   <p align="center">community group</p>
 </p>
 
-# Talks & Events
+## Introduction
 
-You can find all previous and future talks of CyprusJS in the [issues](https://github.com/cyprusjs/CyprusJS/issues) of this repo.
+CyprusJS is place for JavaScript enthusiasts in Cyprus to come together and
+discuss JavaScript and related technologies, learn from each other and solve
+problems
 
-We're also on Meetup: http://meetup.com/cyprusjs/
+## Stay at Home
 
-## Table of Contents
-* [Format](#format)
-* [Submit a Talk](#submit-a-talk)
-* [Technical Information](#technical-Information)
-* [License](LICENSE)
+> In all seriousness though, we love our community and want everyone to stay
+> safe, especially those who are the most vulnerable. That's why we've decided
+> to cancel our upcoming meetups until there is more certainty around how we can
+> safely conduct BerlinJS. We'll keep you posted on any further developments.
+> Hope to see you all again soon and in good health ❤️.
 
-## Important Documents
+We can't say it better than @BerlinJS 😘.
 
-* [Code of Conduct](https://github.com/cyprusjs/CyprusJS/blob/master/CODE_OF_CONDUCT.md)
-* [Contributing](https://github.com/cyprusjs/CyprusJS/blob/master/CONTRIBUTING.md)
-* [License](LICENSE)
+## Chat
 
-## Format
+You can [join us on Discord](https://discord.gg/8ZSRMmu2) to chat about all
+things JavaScript or Cyprus.
 
-- Talks are 30 minutes each
-- Q&A is encouraged after the event in the social session, not directly after the talk
-- Speakers should be at the venue latest 15 minutes before the event starts to test the setup
-- The event team will help with any issues before, during or after the event
-- [Code of Conduct](http://berlincodeofconduct.org) applies to all events and activities
+## Events
 
-## Submit a Talk
+Occasionally, we organize small, informal get-togethers all over Cyprus. You can
+[Propose an Event](https://github.com/cyprusjs/CyprusJS/issues/new/choose)
+yourself, if you want to meet like-minded people in your area.
 
-If you want to submit a talk, please use the [Talk template](https://github.com/cyprusjs/CyprusJS/issues/new/choose), we'll update and improve that over time when necessary.
+## Remote Activities
 
-## Technical Information
+We're all tired of "remote beers" and "social zooms", so instead we'd like to
+get together for an actual challenge and to learn something new. We discuss open
+source projects we'd like to help and dedicate streamed live coding sessions. If
+you want to participate, let us know on [Discord](https://discord.gg/8ZSRMmu2).
+You can see a list of upcoming session topics here:
 
-### Paphos (Πάφος)
+https://github.com/cyprusjs/CyprusJS/labels/Remote%20Session
 
-Address: Hügge Space, Gladstonos 12-14, 8046 Paphos
+## Links
 
-- 🎟 Ticketing/RSVP: https://ti.to/cyprusjs/
-- 🖥 Presentation on TV, 16:9 aspect ratio
-- 🔗 HDMI
-- 🎤 🙅‍
+- [Chat][https://discord.gg/8zsrmmu2]
+- [Twitter](https://twitter.com/cyprusjs)
+- [Discussions](https://github.com/cyprusjs/CyprusJS/discussions)
+- [All open Issues](https://github.com/cyprusjs/CyprusJS/issues)
+- [Talks and Events](https://github.com/cyprusjs/CyprusJS/issues?q=is%3Aopen+label%3A%22Remote+Session+👩%E2%80%8D💻%22%2C%22Talk%3A+Feature+%3Acinema%3A%22)
 
-### Limassol (Λεμεσός)
+## Code of Conduct
 
-Address: ARIS, 1 Ayias Zonis and Thessalonikis, Nicolaou Pentadromos Centre, Block A, Offices 204/5/6, 3025 Limassol
+Our goal is to have an awesome, inclusive and safe community meetup where people
+meet, hang out together, chat, listen to talks, exchange ideas and make new
+friends. Any harmful or discriminating behaviour will not be tolerated and
+results in the offending person being expelled from the meetup.
 
-- 🎟 Ticketing/RSVP: https://ti.to/cyprusjs/
-- 🖥 Presentation on TV, 16:9 aspect ratio
-- 🔗 HDMI
-- 🎤 🙅‍
+For details on what kinds of behaviour are not tolerated and consequences for
+violating these rules, we refer to the
+[Berlin Code of Conduct](https://rubyberlin.github.io/code-of-conduct).
 
-### Nicosia (Λευκωσία)
-
-Address: IDEA, 36 Lykourgou Street, 1011 Nicosia
-
-- 🎟 Ticketing/RSVP: https://ti.to/cyprusjs/
-- 🖥 Presentation on TV, 16:9 aspect ratio
-- 🔗 HDMI
-- 🎤 🙅‍
-
-### Larnaca (Λάρνακα)
-
-TBD
-
-## QA
-
-If you have questions, suggestions or comments, please use the [main CyprusJS repo](https://github.com/cyprusjs/CyprusJS).
+_Note: BerlinJS has been a pioneer in the JavaScript User Group scene in Europe
+and set a great example. We want to learn from and follow the best, hence we
+allowed ourselves to copy a few things from them._
