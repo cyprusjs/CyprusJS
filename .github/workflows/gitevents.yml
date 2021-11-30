@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: 12
       - name: gitevents
-        uses: gitevents/action@1.1.0
+        uses: gitevents/action@v1.1.0
         with:
           enable-auto-invite: true
           gitevents-app-id: ${{ secrets.GE_APP_ID }}
