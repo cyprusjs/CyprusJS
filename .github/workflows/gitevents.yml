@@ -6,11 +6,13 @@ on:
       - main
   pull_request:
   discussion:
+  discussion_comment:
   issues:
     types: [opened, edited]
+  issue_comment:
 
 jobs:
-  test:
+  gitevents:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
