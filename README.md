@@ -22,7 +22,7 @@ We can't say it better than @BerlinJS 😘.
 
 ## Chat
 
-You can [join us on Discord](https://discord.gg/8ZSRMmu2) to chat about all
+You can [join us on Discord](https://discord.gg/3xKSyZM4mB) to chat about all
 things JavaScript or Cyprus.
 
 ## Events
@@ -36,14 +36,15 @@ yourself, if you want to meet like-minded people in your area.
 We're all tired of "remote beers" and "social zooms", so instead we'd like to
 get together for an actual challenge and to learn something new. We discuss open
 source projects we'd like to help and dedicate streamed live coding sessions. If
-you want to participate, let us know on [Discord](https://discord.gg/8ZSRMmu2).
-You can see a list of upcoming session topics here:
+you want to participate, let us know on
+[Discord](https://discord.gg/3xKSyZM4mB). You can see a list of upcoming session
+topics here:
 
 https://github.com/cyprusjs/CyprusJS/labels/Remote%20Session
 
 ## Links
 
-- [Chat](https://discord.gg/8zsrmmu2)
+- [Chat](https://discord.gg/3xKSyZM4mB)
 - [Twitter](https://twitter.com/cyprusjs)
 - [Discussions](https://github.com/cyprusjs/CyprusJS/discussions)
 - [All open Issues](https://github.com/cyprusjs/CyprusJS/issues)
